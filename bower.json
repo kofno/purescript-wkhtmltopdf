@@ -18,5 +18,9 @@
     "purescript-node-fs-aff": "^0.3.0",
     "purescript-aff": "^0.14.1",
     "purescript-generics": "^0.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kofno/purescript-wkhtmltopdf.git"
   }
 }
