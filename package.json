@@ -1,6 +1,6 @@
 {
   "name": "purescript-wkhtmltopdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Purescript bindings to wkhtmltopdf",
   "main": "index.js",
   "directories": {
