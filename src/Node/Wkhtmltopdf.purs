@@ -126,4 +126,3 @@ toOptions options =
 
 
 foreign import toOptionsImpl :: forall a b. { | a } -> { | b }
-
