@@ -1,5 +1,6 @@
 {
   "name": "purescript-wkhtmltopdf",
+  "license": "MIT",
   "version": "1.0.1",
   "moduleType": [
     "node"
